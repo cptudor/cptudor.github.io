@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Personal Website</title>
-</head>
-<body>
-  <h1>Hello! I'm Tudor</h1>
-  <p>Welcome to my website.</p>
-</body>
-</html>
+# Tudor – Personal Website
+
+Welcome to my personal website! 👋  
+This site serves as my digital portfolio, resume, and blog where I share my work, projects, and thoughts on web development, design, and other interests.
